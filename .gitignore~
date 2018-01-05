@@ -1,5 +1,6 @@
 .gradle
 /build/
+<<<<<<< HEAD
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
@@ -23,6 +24,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+=======
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -35,4 +37,4 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
-
+>>>>>>> 8a62db65139d63d724686f9a15e61d59c696b115
